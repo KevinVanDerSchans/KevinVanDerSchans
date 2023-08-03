@@ -115,8 +115,7 @@
     <br>
     <br>
     <code><a href="https://sonarcloud.io/" target="_blank" rel="noreferrer"> <img src="assets/sonarcloud.svg" alt="sonarcloud" width="60" height="60" style="margin-right: 16px" /></code>
-    <code>
-    <a href="https://developer.chrome.com/docs/lighthouse/overview/" target="_blank" rel="noreferrer"> <img src="assets/lighthouse.svg" alt="lighthouse" width="60" height="60" style="margin-right: 16px" /></code>
+    <code><a href="https://developer.chrome.com/docs/lighthouse/overview/" target="_blank" rel="noreferrer"> <img src="assets/lighthouse.svg" alt="lighthouse" width="60" height="60" style="margin-right: 16px" /></code>
 </div>
 
 <br>
@@ -153,10 +152,10 @@
 # Connect with me!
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/kevinvanderschans/" target="blank"> <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="LinkedIn's Kevin" height="120" width="200" style="margin-right: 24px"/></a>
+    <a href="https://www.linkedin.com/in/kevinvanderschans/" target="_blank"> <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="LinkedIn's Kevin" height="120" width="200" style="margin-right: 24px"/></a>
     <br>
-    <a href="mailto:kevinvdsd@hotmail.com" target="blank"> <img align="center" src="assets/gmail-ar21.svg" alt="Gmail's Kevin" height="90" width="150" style="margin-right: 24px"/></a>
-    <a href="https://discord.gg/TmQemEAY" target="blank"> <img align="center" src="assets/discordapp-ar21.svg" alt="Discord's Kevin" height="90" width="150" style="margin-right: 24px"/></a>
+    <a href="mailto:kevinvdsd@hotmail.com" target="_blank"> <img align="center" src="assets/gmail-ar21.svg" alt="Gmail's Kevin" height="90" width="150" style="margin-right: 32px"/></a>
+    <a href="https://discord.gg/TmQemEAY" target="_blank"> <img align="center" src="assets/discordapp-ar21.svg" alt="Discord's Kevin" height="90" width="150" style="margin-right: 24px"/></a>
 </p>
 
 <br>
@@ -174,3 +173,5 @@
 <br>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KevinVanDerSchans&theme=react" alt="KevinVanDerSchans contributions"/></p>
+
+<br>
