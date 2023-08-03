@@ -5,9 +5,8 @@
 <div align="center">
     <image style="background-color: #565859" src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=white&center=true&width=410&height=45&lines=Full+Stack+Developer." height="200"/>
     <h2>Currently living in Malaga. I am passionate about creating new projects and improving them to their full potential!</h2>
-    <h3>I have a strong background in React, TypeScript, Node.js, Git and Github.</h3>
+    <h3>I've a strong background in React/Redux, TypeScript, Node.js, Git and Github.</h3>
 </div>
-
 
 <br>
 <br>
@@ -94,6 +93,11 @@
     <code><a href="https://firebase.google.com/?hl=es" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="60" height="60" style="margin-right: 16px" /></a></code>
     <code><a href="https://jwt.io/" target="_blank" rel="noreferrer"> <img src="assets/jsonwebtoken.svg" alt="jwt" width="60" height="60" style="margin-right: 16px" /></a></code>
     <code><a href="https://sharp.pixelplumbing.com/" target="_blank" rel="noreferrer"> <img src="assets/sharp.svg" alt="sharp" width="60" height="60" style="margin-right: 16px" /></a></code>
+    <br>
+    <br>
+    <code><a href="https://www.npmjs.com/package/multer" target="_blank" rel="noreferrer"> <img src="assets\multer.svg" alt="multer" width="60" height="60" style="margin-right: 16px" /></a></code>
+    <code><a href="https://www.npmjs.com/package/bcrypt" target="_blank" rel="noreferrer"> <img src="assets/bcrypt.svg" alt="bcrypt" width="60" height="60" style="margin-right: 16px" /></a></code>
+    <code><a href="https://mongoosejs.com/" target="_blank" rel="noreferrer"> <img src="assets/mongoose.svg" alt="mongoose" width="60" height="60" style="margin-right: 16px" /></a></code>
     <br>
     <br>
     <code><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" alt="mySQL" width="60" height="60" style="margin-right: 16px" /></a></code>
