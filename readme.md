@@ -9,10 +9,9 @@
 </div>
 
 <br>
-<br>
 
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/213760697-1dc03683-ba49-44f2-985e-95fd5ec22d3f.gif" alt="Work environment GIF" width="500">
+    <img src="https://user-images.githubusercontent.com/74038190/213760697-1dc03683-ba49-44f2-985e-95fd5ec22d3f.gif" alt="Work environment GIF" width="450">
 </p>
 
 <br>
@@ -21,33 +20,17 @@
 
      💻 MERN Stack Development.
 
-<br>
-
       🔍 Testing with Jest, Testing Library and Cypress.
-
-<br>
 
      📚 I am looking for new projects to collaborate on.
 
-<br>
-
-     🌍 Languages: Spanish (native language) and English (level B2).
-
-<br>
-
      🌟 I love doing Clean Code and Good Practices.
-
-<br>
 
      📈 Perfection, Efficient and Results-Driven.
 
-<br>
-
      🧠 Kaizen methodology: learning every day to be better than yesterday.
-
 </div>
 
-<br>
 <br>
 <br>
 
@@ -77,7 +60,6 @@
 </div>
 
 <br>
-<br>
 
 ## Back-end
 
@@ -105,7 +87,6 @@
 </div>
 
 <br>
-<br>
 
 ## Testing
 
@@ -121,7 +102,6 @@
     <a href="https://developer.chrome.com/docs/lighthouse/overview/" target="_blank" rel="noreferrer"> <img src="assets/lighthouse.svg" alt="lighthouse" width="60" height="60" style="margin-right: 24px" />
 </div>
 
-<br>
 <br>
 
 ## Others
@@ -162,7 +142,6 @@
 </p>
 
 <br>
-<br>
 
 # My Stats
 
@@ -172,7 +151,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinVanDerSchans&layout=compact&hide_border=true&theme=react" alt="Most Used Languages" width="450"/>
 </div>
 
-<br>
 <br>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KevinVanDerSchans&theme=react" alt="KevinVanDerSchans contributions"/></p>
