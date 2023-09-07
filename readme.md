@@ -1,11 +1,20 @@
-<div align="center" style="background-color: #2B8BD0; padding: 30px;">
-    <h1>Hello 👋, I'm Kevin!</h1>
+<div align="center" style="padding: 30px;">
+    <h1>Hello 👋, I am <span style="font-weight: bold;">Kevin</span>!</h1>
 </div>
 
 <div align="center">
-    <image style="background-color: #565859" src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=white&center=true&width=410&height=45&lines=Full+Stack+Developer." height="200"/>
-    <h2>Currently living in Malaga. I am passionate about creating new projects and improving them to their full potential!</h2>
-    <h3>I've a strong background in React/Redux, TypeScript, Node.js, Git and Github.</h3>
+    <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=white&center=true&width=410&height=45&lines=Full+Stack+Developer." height="200"/>
+    <h2>Currently located in Benalmádena (Málaga), with a strong passion for conceiving new projects and <span style="font-weight: bold;">optimizing</span> their full potential.</h2>
+    <br>
+    <p>
+        I come from a technical background, where I worked at a multinational company dedicated to security, ensuring its <span style="font-weight: bold;">quality</span>.
+    <br>
+        With my <span style="font-weight: bold;">great communication skills</span>, I am motivated to bring <span style="font-weight: bold;">perfection</span> to my daily work, driven by my <span style="font-weight: bold;">commitment</span> to learn every single day and to assist and <span style="font-weight: bold;">support</span> others.
+    <br>
+        I consider myself a <span style="font-weight: bold;">clean code</span> advocate, with special attention to <span style="font-weight: bold;">aesthetics</span>, <span style="font-weight: bold;">maintainability</span> and <span style="font-weight: bold;">scalability</span> in my work.
+    </p>
+    <h3>I have a strong background in <span style="font-weight: bold;">React/Redux</span>, <span style="font-weight: bold;">TypeScript</span>, <span style="font-weight: bold;">Node.js</span>, <span style="font-weight: bold;">Git</span> and <span style="font-weight: bold;">Github</span>.</h3>
+    <h3>Take a look at my <span style="font-weight: bold;">projects</span> and let's <span style="font-weight: bold;">talk</span> for a while !</h3>
 </div>
 
 <br>
@@ -54,7 +63,9 @@
     <a href="https://getbem.com/introduction/" target="_blank" rel="noreferrer"> <img src="assets/bem.svg" alt="bem" width="60" height="60" style="margin-right: 24px" />
     <br>
     <br>
+    <a href="https://styled-components.com/" target="_blank" rel="noreferrer"> <img src="assets/styledcomponents.svg" alt="styled-components" width="60" height="60" style="margin-right: 24px" /> </a>
     <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" width="60" height="60" style="margin-right: 24px" /> </a>
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="assets/tailwind.svg" alt="tailwind" width="60" height="60" style="margin-right: 24px" /> </a>    
     <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="assets/bootstrap.svg" alt="bootstrap" width="60" height="60" style="margin-right: 24px" /></a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60" style="margin-right: 24px" /></a>
 </div>
@@ -115,11 +126,14 @@
     <br>
     <br>
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="assets/visualstudiocode.svg" alt="visual studio code" width="60" height="60" style="margin-right: 24px" /></a>
+    <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="60" height="60" style="margin-right: 24px" />
+    <a href="https://www.i18next.com/" target="_blank" rel="noreferrer"> <img src="assets/i18next.svg" alt="i18next" width="60" height="60" style="margin-right: 24px" /></a>
     <a href="https://eslint.org/" target="_blank" rel="noreferrer"> <img src="assets/eslint.svg" alt="eslint" width="60" height="60" style="margin-right: 24px" /></a>
     <a href="https://prettier.io/" target="_blank" rel="noreferrer"> <img src="assets/prettier.svg" alt="prettier" width="60" height="60" style="margin-right: 24px" /></a>
-    <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="60" height="60" style="margin-right: 24px" />
     <br>
     <br>
+    <a href="https://create-react-app.dev/" target="_blank" rel="noreferrer"> <img src="assets/create-react-app.svg" alt="create-react-app" width="60" height="60" style="margin-right: 24px" /></a>
+    <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> <img src="assets/vitejs.svg" alt="vite.js" width="60" height="60" style="margin-right: 24px" /></a>
     <a href="https://render.com/" target="_blank" rel="noreferrer"> <img src="assets/render.svg" alt="render" width="60" height="60" style="margin-right: 24px" /></a>
     <a href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="assets/vercel.svg" alt="vercel" width="60" height="60" style="margin-right: 24px" /></a>
     <a href="https://www.netlify.com/?attr=homepage-modal" target="_blank" rel="noreferrer"> <img src="assets/netlify.svg" alt="netlify" width="60" height="60" style="margin-right: 24px" /></a>
@@ -135,7 +149,7 @@
 # Connect with me!
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/kevinvanderschans/" target="_blank"> <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="LinkedIn's Kevin" height="120" width="200" style="margin-right: 24px"/></a>
+    <a href="https://www.linkedin.com/in/kevinvanderschans/" target="_blank"> <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="LinkedIn's Kevin" height="110" width="200" style="margin-right: 24px"/></a>
     <br>
     <a href="mailto:kevinvdsd@hotmail.com" target="_blank"> <img align="center" src="assets/gmail-ar21.svg" alt="Gmail's Kevin" height="90" width="150" style="margin-right: 32px"/></a>
     <a href="https://discord.gg/TmQemEAY" target="_blank"> <img align="center" src="assets/discordapp-ar21.svg" alt="Discord's Kevin" height="90" width="150" style="margin-right: 24px"/></a>
