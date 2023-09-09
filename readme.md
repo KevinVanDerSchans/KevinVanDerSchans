@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-    <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=white&center=true&width=410&height=45&lines=Full+Stack+Developer." height="200"/>
+    <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=white&center=true&width=410&height=45&lines=Full+Stack+Developer." height="140"/>
     <h3>
         Currently located in Benalmádena (Málaga), with a strong passion<br> for conceiving new projects and <span style="font-weight: bold;">optimizing</span> their full potential.
     </h3>
