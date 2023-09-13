@@ -5,19 +5,19 @@
 <div align="center">
     <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=white&center=true&width=410&height=45&lines=Full+Stack+Developer." height="140"/>
     <h3>
-        Currently located in Benalmádena (Málaga), with a strong passion<br> for conceiving new projects and <span style="font-weight: bold;">optimizing</span> their full potential.
+        I am currently based in Benalmádena (Málaga).
     </h3>
     <h3>
-        With my <span style="font-weight: bold;">great communication skills</span>, I am motivated to bring <br><span style="font-weight: bold;">perfection</span> to my daily work, driven by my <span style="font-weight: bold;">commitment</span> to learn<br> every single day and to assist and <span style="font-weight: bold;">support</span> others.
+        My curiosity about new technologies led me to discover <br>programming... where I found my true passion for code !
     </h3>
     <h3>
-        I consider myself a <span style="font-weight: bold;">clean code</span> advocate, with special <br>attention to <span style="font-weight: bold;">aesthetics</span>, <span style="font-weight: bold;">maintainability</span> and <span style="font-weight: bold;">scalability</span> in my work.
+        I like to be rigorous and methodical in my daily work, following<br> the best practices I acquired during my studies. <br> I consider myself a <span style="font-weight: bold;">clean code</span> advocate, with special <br>attention to <span style="font-weight: bold;">aesthetics</span>, <span style="font-weight: bold;">maintainability</span> and <span style="font-weight: bold;">scalability</span> in my work.
     </h3>
     <h3>
         I have a strong background in <br><span style="font-weight: bold;">React/Redux</span>, <span style="font-weight: bold;">TypeScript</span>, <span style="font-weight: bold;">Node.js</span>, <span style="font-weight: bold;">Git</span> and <span style="font-weight: bold;">Github</span>.
     </h3>
     <br>
-    <h2>Take a look at my <span style="font-weight: bold;">projects</span> and let's <span style="font-weight: bold;">talk</span> for a while !</h2>
+    <h2>Please take a look at my projects <br>and let me know your opinion ! </h2>
 </div>
 
 <br>
