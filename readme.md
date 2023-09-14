@@ -4,7 +4,7 @@
 
 <div align="center">
     <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=white&center=true&width=410&height=45&lines=Full+Stack+Developer." height="140"/>
-    <h3><a href="https://kevin-van-der-schans.vercel.app/" target="_blank">Explore my PORTFOLIO</a></h3>
+    <h3><a href="https://kevin-van-der-schans.vercel.app/">Explore my PORTFOLIO</a></h3>
     <br>
     <h3>
         I am currently based in Benalmádena (Málaga).
