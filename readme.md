@@ -6,20 +6,20 @@
     <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=white&center=true&width=410&height=45&lines=Full+Stack+Developer." height="140"/>
     <h3><a href="https://kevin-van-der-schans.vercel.app/">Explore my PORTFOLIO</a></h3>
     <br>
-    <h3>
+    <p>
         I am currently based in Benalmádena (Málaga).
-    </h3>
-    <h3>
+    </p>
+    <p>
         My curiosity about new technologies led me to discover <br>programming... where I found my true passion for code !
-    </h3>
-    <h3>
+    </p>
+    <p>
         I like to be rigorous and methodical in my daily work, following<br> the best practices I acquired during my studies. <br> I consider myself a <span style="font-weight: bold;">clean code</span> advocate, with special <br>attention to <span style="font-weight: bold;">aesthetics</span>, <span style="font-weight: bold;">maintainability</span> and <span style="font-weight: bold;">scalability</span> in my work.
-    </h3>
-    <h3>
+    </p>
+    <p>
         I have a strong background in <br><span style="font-weight: bold;">React/Redux</span>, <span style="font-weight: bold;">TypeScript</span>, <span style="font-weight: bold;">Node.js</span>, <span style="font-weight: bold;">Git</span> and <span style="font-weight: bold;">Github</span>.
-    </h3>
+    </p>
     <br>
-    <h2>Please take a look at my projects <br>and let me know your opinion ! </h2>
+    <p>Please take a look at my projects <br>and let me know your opinion ! </p>
 </div>
 
 <br>
