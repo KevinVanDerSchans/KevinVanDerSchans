@@ -4,41 +4,30 @@
 
 <div align="center">
     <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=white&center=true&width=410&height=45&lines=Full-Stack+Developer." height="120"/>
-    <h3><a href="https://kevin-van-der-schans.vercel.app/">Explore my PORTFOLIO</a></h3>
-    <br>
-    <p>
-        I am currently based in Benalmádena (Málaga).
-    </p>
-    <p>
-        I have a strong background in <br><span style="font-weight: bold;">React/Redux</span>, <span style="font-weight: bold;">TypeScript</span>, <span style="font-weight: bold;">JavaScript</span>,
-        <br>
-        <span style="font-weight: bold;">Microservices</span> and <span style="font-weight: bold;">databases</span>.
-    </p>
-    <p>
-        I consider myself a <span style="font-weight: bold;">clean code</span> advocate, with special attention<br>to <span style="font-weight: bold;">aesthetics</span>, <span style="font-weight: bold;">maintainability</span> and <span style="font-weight: bold;">scalability</span> in my work.
-    </p>
-    <p>Please take a look at my projects <br>and let me know your opinion ! </p>
+    <h3>
+        <a href="https://kevin-van-der-schans.vercel.app/">
+            Explore my PORTFOLIO
+        </a>
+    </h3>
 </div>
 
 <br>
-
-<p align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/213760697-1dc03683-ba49-44f2-985e-95fd5ec22d3f.gif" alt="Work environment GIF" width="450">
-</p>
-
 <br>
 
 <div align="center">
 
-     💻 MERN Stack Development.
+     💻 Strong background in React-Redux, TypeScript, JavaScript, Microservices and databases.
 
-     📚 I am looking for new projects to collaborate on.
-
-     🌟 I love doing Clean Code and Good Practices.
+     🌍 Currently based in Málaga (Spain).
 
      📈 Perfection, Efficient and Results-Driven.
 
+     📚 I am looking for new projects to collaborate on.
+
+     🌟 Clean code advocate, with special attention to aesthetics, maintainability and scalability.
+
      🧠 Kaizen methodology: learning every day to be better than yesterday.
+     
 </div>
 
 <br>
@@ -50,10 +39,10 @@
 
 <div align="center">
     <br>
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="assets/next.svg" alt="Next.js" width="60" height="60" style="margin-right: 24px" />
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60" style="margin-right: 24px"/>
-    <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="60" height="60" style="margin-right: 24px" />
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60" style="margin-right: 24px" />
+    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="assets/next.svg" alt="Next.js" width="60" height="60" style="margin-right: 24px" /> </a>
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60" style="margin-right: 24px"/></a>
+    <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="60" height="60" style="margin-right: 24px" /></a>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60" style="margin-right: 24px" /></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60" style="margin-right: 24px" /></a>
     <br>
     <br>
@@ -61,7 +50,7 @@
     <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="assets/kubernetes.svg" alt="Kubernetes" width="60" height="60" style="margin-right: 24px" /></a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" alt="mySQL" width="60" height="60" style="margin-right: 24px" /></a>
     <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="assets/postgresql.svg" alt="postgreSQL" width="60" height="60" style="margin-right: 24px" /></a>
-    <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="60" height="60" style="margin-right: 24px" />
+    <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="60" height="60" style="margin-right: 24px" /></a>
     <br>
     <br>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60" style="margin-right: 24px" /></a>
@@ -86,7 +75,7 @@
     <br>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="express" width="60" height="60" style="margin-right: 24px" /></a>
     <a href="https://github.com/KevinVanDerSchans" target="_blank" rel="noreferrer"> <img src="assets/github.svg" alt="github" width="60" height="60" style="margin-right: 24px" /></a>
-    <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="60" height="60" style="margin-right: 24px" />
+    <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="60" height="60" style="margin-right: 24px" /></a>
     <a href="https://html.spec.whatwg.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60" style="margin-right: 24px" /></a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60" style="margin-right: 24px" /></a>
     <br>
@@ -103,10 +92,10 @@
     <a href="https://firebase.google.com/?hl=es" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="60" height="60" style="margin-right: 24px" /></a>
     <br>
     <br>
-    <a href="https://testing-library.com/" target="_blank" rel="noreferrer"> <img src="assets/testinglibrary.svg" alt="testing library" width="60" height="60" style="margin-right: 24px" />
-    <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="60" height="60" style="margin-right: 24px" />
-    <a href="https://sonarcloud.io/" target="_blank" rel="noreferrer"> <img src="assets/sonarcloud.svg" alt="sonarcloud" width="60" height="60" style="margin-right: 24px" />
-    <a href="https://developer.chrome.com/docs/lighthouse/overview/" target="_blank" rel="noreferrer"> <img src="assets/lighthouse.svg" alt="lighthouse" width="60" height="60" style="margin-right: 24px" />
+    <a href="https://testing-library.com/" target="_blank" rel="noreferrer"> <img src="assets/testinglibrary.svg" alt="testing library" width="60" height="60" style="margin-right: 24px" /></a>
+    <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="60" height="60" style="margin-right: 24px" /></a>
+    <a href="https://sonarcloud.io/" target="_blank" rel="noreferrer"> <img src="assets/sonarcloud.svg" alt="sonarcloud" width="60" height="60" style="margin-right: 24px" /></a>
+    <a href="https://developer.chrome.com/docs/lighthouse/overview/" target="_blank" rel="noreferrer"> <img src="assets/lighthouse.svg" alt="lighthouse" width="60" height="60" style="margin-right: 24px" /></a>
 </div>
 
 <br>
