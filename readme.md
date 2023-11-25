@@ -48,17 +48,22 @@
     <br>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="assets/docker.svg" alt="Docker" width="60" height="60" style="margin-right: 24px" /></a>
     <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="assets/kubernetes.svg" alt="Kubernetes" width="60" height="60" style="margin-right: 24px" /></a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" alt="mySQL" width="60" height="60" style="margin-right: 24px" /></a>
-    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="assets/postgresql.svg" alt="postgreSQL" width="60" height="60" style="margin-right: 24px" /></a>
-    <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="60" height="60" style="margin-right: 24px" /></a>
+    <br>
+    <br>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="express" width="60" height="60" style="margin-right: 24px" /></a>
+    <a href="https://github.com/KevinVanDerSchans" target="_blank" rel="noreferrer"> <img src="assets/github.svg" alt="github" width="60" height="60" style="margin-right: 24px" /></a>
+    <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="60" height="60" style="margin-right: 24px" /></a>
     <br>
     <br>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60" style="margin-right: 24px" /></a>
     <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="60" height="60" style="margin-right: 24px" /></a>
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60" style="margin-right: 24px" /></a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" alt="mySQL" width="60" height="60" style="margin-right: 24px" /></a>
+    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="assets/postgresql.svg" alt="postgreSQL" width="60" height="60" style="margin-right: 24px" /></a>
     <br>
     <br>
     <a href="https://www.scrum.org/" target="_blank" rel="noreferrer"> <img src="assets/scrum.svg" alt="Scrum" width="80" height="70" style="margin-right: 24px" /></a>
+     <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="60" height="60" style="margin-right: 24px" /></a>
     <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" width="60" height="60" style="margin-right: 24px" /> </a>
     <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="assets/bootstrap.svg" alt="bootstrap" width="60" height="60" style="margin-right: 24px" /></a>
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="assets/tailwind.svg" alt="tailwind" width="60" height="60" style="margin-right: 24px" /> </a>
@@ -73,9 +78,6 @@
 
 <div align="center">
     <br>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="express" width="60" height="60" style="margin-right: 24px" /></a>
-    <a href="https://github.com/KevinVanDerSchans" target="_blank" rel="noreferrer"> <img src="assets/github.svg" alt="github" width="60" height="60" style="margin-right: 24px" /></a>
-    <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="60" height="60" style="margin-right: 24px" /></a>
     <a href="https://html.spec.whatwg.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60" style="margin-right: 24px" /></a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60" style="margin-right: 24px" /></a>
     <br>
