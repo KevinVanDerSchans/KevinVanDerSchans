@@ -33,7 +33,7 @@
 <br>
 <br>
 
-# My current Stack:
+# My Stack:
 
 <br> 
 
@@ -42,6 +42,7 @@
     <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="assets/next.svg" alt="Next.js" width="60" height="60" style="margin-right: 24px" /> </a>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60" style="margin-right: 24px"/></a>
     <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="60" height="60" style="margin-right: 24px" /></a>
+    <a href="https://angular.dev/" target="_blank" rel="noreferrer"> <img src="assets/angular.svg" alt="Angular" width="60" height="60" style="margin-right: 24px" /></a>
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60" style="margin-right: 24px" /></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60" style="margin-right: 24px" /></a>
     <br>
@@ -52,7 +53,7 @@
     <br>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="express" width="60" height="60" style="margin-right: 24px" /></a>
     <a href="https://github.com/KevinVanDerSchans" target="_blank" rel="noreferrer"> <img src="assets/github.svg" alt="github" width="60" height="60" style="margin-right: 24px" /></a>
-    <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="60" height="60" style="margin-right: 24px" /></a>
+    <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="assets/jenkins.svg" alt="Jenkins" width="60" height="60" style="margin-right: 24px" /></a>
     <br>
     <br>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60" style="margin-right: 24px" /></a>
