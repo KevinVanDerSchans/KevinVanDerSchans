@@ -65,6 +65,7 @@
     <br>
     <a href="https://www.scrum.org/" target="_blank" rel="noreferrer"> <img src="assets/scrum.svg" alt="Scrum" width="80" height="70" style="margin-right: 24px" /></a>
      <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="60" height="60" style="margin-right: 24px" /></a>
+    <a href="https://testing-library.com/" target="_blank" rel="noreferrer"> <img src="assets/testinglibrary.svg" alt="testing library" width="60" height="60" style="margin-right: 24px" /></a>
     <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" width="60" height="60" style="margin-right: 24px" /></a>
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="assets/tailwind.svg" alt="tailwind" width="60" height="60" style="margin-right: 24px" /> </a>
 </div>
@@ -78,17 +79,13 @@
 <div align="center">
     <br>
     <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="60" height="60" style="margin-right: 24px" /></a>
-    <a href="https://testing-library.com/" target="_blank" rel="noreferrer"> <img src="assets/testinglibrary.svg" alt="testing library" width="60" height="60" style="margin-right: 24px" /></a>
     <a href="https://jwt.io/" target="_blank" rel="noreferrer"> <img src="assets/jsonwebtoken.svg" alt="jwt" width="60" height="60" style="margin-right: 24px" /></a>
+        <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="60" height="60" style="margin-right: 24px" /></a>
     <br>
     <br>
     <a href="https://mongoosejs.com/" target="_blank" rel="noreferrer"> <img src="assets/mongoose.svg" alt="mongoose" width="60" height="60" style="margin-right: 24px" /></a>
     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60" style="margin-right: 24px" /></a>
     <a href="https://firebase.google.com/?hl=es" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="60" height="60" style="margin-right: 24px" /></a>
-    <br>
-    <br>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="60" height="60" style="margin-right: 24px" /></a>
-
 </div>
 
 <br>
