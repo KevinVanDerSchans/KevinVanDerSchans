@@ -44,7 +44,7 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60" style="margin-right: 24px" /></a>
     <br>
     <br>
-    <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="assets/python.svg" alt="Python" width="60" height="66" style="margin-right: 24px" /></a>
+    <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="assets/python.svg" alt="Python" width="60" height="60" style="margin-right: 24px" /></a>
     <a href="https://angular.dev/" target="_blank" rel="noreferrer"> <img src="assets/angular.svg" alt="Angular" width="60" height="60" style="margin-right: 24px" /></a>
     <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="assets/vue.svg" alt="Vue.js" width="60" height="60" style="margin-right: 24px" /></a>
     <br>
