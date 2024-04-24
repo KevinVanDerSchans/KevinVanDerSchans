@@ -34,7 +34,6 @@
 <br>
 
 <div align="center">
-    <br>
         <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="./assets/react.svg" alt="React" width="60" height="60" style="margin-right: 24px"/></a>
         <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="./assets/redux.svg" alt="Redux" width="60" height="60" style="margin-right: 24px" /></a>
         <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="./assets/react-native.svg" alt="React Native" width="64" height="64" style="margin-right: 24px"/></a>
@@ -44,9 +43,8 @@
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="./assets/javascript.svg" alt="Javascript" width="60" height="60" style="margin-right: 24px" /></a>
     <br>
     <br>
-        <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="assets/tailwind.svg" alt="Tailwind" width="60" height="60" style="margin-right: 24px" /> </a>
+        <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="assets/tailwind.svg" alt="Tailwind" width="60" height="60" style="margin-right: 24px" /></a>
         <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> <img src="./assets/sass.svg" alt="Sass" width="60" height="60" style="margin-right: 24px" /></a>
-    <br>
     <br>
     <br>
     <br>
@@ -57,8 +55,6 @@
         <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="60" height="60" style="margin-right: 24px" /></a>
         <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="./assets/postman.svg" alt="Postman" width="60" height="60" style="margin-right: 24px" /></a>
     <br>
-    <br>
-    <br>
 </div>
 
 <br>
@@ -68,14 +64,12 @@
 <br>
 
 <div align="center">
-    <br>
         <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="assets/next.svg" alt="NextJS" width="60" height="60" style="margin-right: 24px" /></a>
         <a href="https://vitest.dev/" target="_blank" rel="noreferrer"> <img src="assets/vitest.svg" alt="Vitest" width="60" height="60" style="margin-right: 24px" /></a>
     <br>
     <br>
         <a href="https://www.scrum.org/" target="_blank" rel="noreferrer"> <img src="assets/scrum.svg" alt="Scrum" width="80" height="70" style="margin-right: 24px" /></a>
         <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="./assets/figma.svg" alt="Figma" width="60" height="60" style="margin-right: 24px" /></a>
-    <br>
     <br>
 </div>
 
