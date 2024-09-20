@@ -3,12 +3,10 @@
 </div>
 
 <div align="center">
-    <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=white&center=true&width=410&height=45&lines=Full-Stack+Developer" height="80"/>
-    <h2>
+    <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=white&center=true&width=410&height=45&lines=Front-end+Developer" height="80"/>
         <a target="_blank" href="https://kevin-van-der-schans.vercel.app">
             Explore my PORTFOLIO
         </a>
-    </h2>
 </div>
 
 <br>
@@ -43,8 +41,8 @@
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="./assets/javascript.svg" alt="Javascript" width="60" height="60" style="margin-right: 24px" /></a>
     <br>
     <br>
-        <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="assets/tailwind.svg" alt="Tailwind" width="60" height="60" style="margin-right: 24px" /></a>
         <a href="https://vitest.dev/" target="_blank" rel="noreferrer"> <img src="assets/vitest.svg" alt="Vitest" width="60" height="60" style="margin-right: 24px" /></a>
+        <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="assets/tailwind.svg" alt="Tailwind" width="60" height="60" style="margin-right: 24px" /></a>
     <br>
     <br>
     <br>
