@@ -4,9 +4,11 @@
 
 <div align="center">
     <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=white&center=true&width=410&height=45&lines=Front-end+Developer" height="80"/>
+    <h3>
         <a target="_blank" href="https://kevin-van-der-schans.vercel.app">
-            Explore my PORTFOLIO
+            Visit my PORTFOLIO
         </a>
+    </h3>
 </div>
 
 <br>
