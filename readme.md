@@ -15,7 +15,7 @@
 
 <div align="center">
 
-     💻 Strong background in React, Redux, React Native, TypeScript, TailwindCSS and Django
+     💻 Strong background in React, TypeScript, Redux, Tailwind, React Native and Testing
 
      🌟 Clean code advocate, with special attention to aesthetics, maintainability and scalability
 
@@ -40,20 +40,17 @@
     <br>
     <br>
         <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="./assets/typescript.svg" alt="Typescript" width="60" height="60" style="margin-right: 24px" /></a>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="./assets/javascript.svg" alt="Javascript" width="60" height="60" style="margin-right: 24px" /></a>
-    <br>
-    <br>
-        <a href="https://vitest.dev/" target="_blank" rel="noreferrer"> <img src="assets/vitest.svg" alt="Vitest" width="60" height="60" style="margin-right: 24px" /></a>
+        <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="./assets/next.svg" alt="NextJS" width="60" height="60" style="margin-right: 24px" /></a>
         <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="assets/tailwind.svg" alt="Tailwind" width="60" height="60" style="margin-right: 24px" /></a>
     <br>
     <br>
+        <a href="https://jestjs.io/" target="_blank" rel="noreferrer"> <img src="assets/jest.svg" alt="Jest" width="60" height="60" style="margin-right: 24px" /></a>
+        <a href="https://www.cypress.io/" target="_blank" rel="noreferrer"> <img src="assets/cypress.svg" alt="Cypress" width="60" height="60" style="margin-right: 24px" /></a>
     <br>
-        <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="assets/django.svg" alt="Django" width="80" height="60" style="margin-right: 24px" /></a>
-        <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="./assets/postgresql.svg" alt="PostgreSQL" width="60" height="60" style="margin-right: 24px" /></a>
     <br>
     <br>
-        <a href="https://www.scrum.org/" target="_blank" rel="noreferrer"> <img src="assets/scrum.svg" alt="Scrum" width="80" height="70" style="margin-right: 24px" /></a>
         <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="./assets/figma.svg" alt="Figma" width="60" height="60" style="margin-right: 24px" /></a>
+        <a href="https://www.scrum.org/" target="_blank" rel="noreferrer"> <img src="assets/scrum.svg" alt="Scrum" width="80" height="70" style="margin-right: 24px" /></a>
     <br>
 </div>
 
