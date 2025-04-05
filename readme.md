@@ -1,35 +1,36 @@
-<div align="center" style="padding: 20px;">
-    <h1>Kevin van der Schans</h1>
-</div>
+<h1 align="center">Kevin van der Schans</h1>
 
-<div align="center">
+<p align="center">
     <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=white&center=true&width=410&height=45&lines=Front-end+Developer" height="80"/>
-    <h3>
-        <a target="_blank" href="https://kevin-van-der-schans.vercel.app">
-            Visit my PORTFOLIO
-        </a>
-    </h3>
-</div>
+</p>
 
-<br>
+<p align="center">
+  <a href="https://kevin-van-der-schans.vercel.app" target="_blank">
+    🌐 <strong>Visit my PORTFOLIO</strong>
+  </a>
+</p>
+
+---
+
+## 🧑‍💻 About Me
 
 <div align="center">
 
-     💻 Strong background in Next.js, React, React Native and TypeScript
+     💻 Strong foundation in Next.js, React, React Native and TypeScript
 
      🌟 Clean code advocate with special attention to maintainability and scalability
 
-     🧠 Kaizen methodology: learning every day to be better than yesterday
+     🧠 Kaizen mindset: learning every day to be better than yesterday
 
-     📈 Perfection, Efficient and Results-Driven
+     📈 Perfectionist, efficient and results-driven
 
-     🌍 Based in Málaga (Spain)
+     🌍 Based in Málaga, Spain
 
 </div>
 
-<br>
+---
 
-# My Stack:
+## 🛠 Tech Stack
 
 <br>
 
@@ -55,30 +56,40 @@
     <br>
 </div>
 
-<br>
-<br>
+---
 
-# Connect with me!
+## 🔗 Let's Connect
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/kevinvanderschans/" target="_blank"> <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="LinkedIn's Kevin" height="110" width="200" style="margin-right: 24px"/></a>
-    <br>
-    <a href="mailto:kevinvdsd@hotmail.com" target="_blank"> <img align="center" src="assets/gmail.svg" alt="Gmail's Kevin" height="90" width="160" style="margin-right: 32px"/></a>
-    <a href="https://discord.gg/TmQemEAY" target="_blank"> <img align="center" src="assets/discord.svg" alt="Discord's Kevin" height="90" width="160" style="margin-right: 24px"/></a>
+  <a href="https://www.linkedin.com/in/kevinvanderschans/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="LinkedIn" width="200" />
+  </a>
 </p>
 
-<br>
+<p align="center">
+  <a href="mailto:kevinvdsd@hotmail.com" target="_blank">
+    <img src="./assets/gmail.svg" alt="Email" width="160" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://discord.gg/TmQemEAY" target="_blank">
+    <img src="./assets/discord.svg" alt="Discord" width="160" />
+  </a>
+</p>
 
-# My Stats
+---
+
+## 📊 GitHub Stats
 
 <br>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinVanDerSchans&layout=compact&hide_border=true&theme=react" alt="Most Used Languages" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinVanDerSchans&layout=compact&hide_border=true&theme=react" alt="Top Languages" width="450" />
 </div>
 
 <br>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KevinVanDerSchans&theme=react" alt="KevinVanDerSchans contributions"/></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KevinVanDerSchans&theme=react" alt="GitHub Streak" />
+</p>
 
 <br>
