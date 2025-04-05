@@ -16,15 +16,15 @@
 
 <div align="center">
 
-     💻 Strong foundation in Next.js, React, React Native and TypeScript
+        💻 Strong foundation in Next.js, React, React Native and TypeScript
 
-     🌟 Clean code advocate with special attention to maintainability and scalability
+        🌟 Clean code advocate with special attention to maintainability and scalability
 
-     🧠 Kaizen mindset: learning every day to be better than yesterday
+        🧠 Kaizen mindset: learning every day to be better than yesterday
 
-     📈 Perfectionist, efficient and results-driven
+        📈 Perfectionist, efficient and results-driven
 
-     🌍 Based in Málaga, Spain
+        🌍 Based in Málaga, Spain
 
 </div>
 
@@ -68,11 +68,7 @@
 
 <p align="center">
   <a href="mailto:kevinvdsd@hotmail.com" target="_blank">
-    <img src="./assets/gmail.svg" alt="Email" width="160" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://discord.gg/TmQemEAY" target="_blank">
-    <img src="./assets/discord.svg" alt="Discord" width="160" />
+    <img src="./assets/gmail.svg" alt="Email" width="170" />
   </a>
 </p>
 
@@ -92,4 +88,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KevinVanDerSchans&theme=react" alt="GitHub Streak" />
 </p>
 
-<br>
+---
