@@ -15,9 +15,9 @@
 
 <div align="center">
 
-     💻 Strong background in React, TypeScript, Redux, Tailwind, React Native and Testing
+     💻 Strong background in Next.js, React, React Native and TypeScript
 
-     🌟 Clean code advocate, with special attention to aesthetics, maintainability and scalability
+     🌟 Clean code advocate with special attention to maintainability and scalability
 
      🧠 Kaizen methodology: learning every day to be better than yesterday
 
@@ -34,23 +34,24 @@
 <br>
 
 <div align="center">
+        <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="./assets/next.svg" alt="NextJS" width="60" height="60" style="margin-right: 24px" /></a>
         <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="./assets/react.svg" alt="React" width="60" height="60" style="margin-right: 24px"/></a>
-        <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="./assets/redux.svg" alt="Redux" width="60" height="60" style="margin-right: 24px" /></a>
         <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="./assets/react-native.svg" alt="React Native" width="64" height="64" style="margin-right: 24px"/></a>
     <br>
     <br>
         <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="./assets/typescript.svg" alt="Typescript" width="60" height="60" style="margin-right: 24px" /></a>
-        <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="./assets/next.svg" alt="NextJS" width="60" height="60" style="margin-right: 24px" /></a>
+        <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="./assets/redux.svg" alt="Redux" width="60" height="60" style="margin-right: 24px" /></a>
         <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="assets/tailwind.svg" alt="Tailwind" width="60" height="60" style="margin-right: 24px" /></a>
     <br>
     <br>
+        <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="assets/jenkins.svg" alt="Jenkins" width="60" height="60" style="margin-right: 24px" /></a>
         <a href="https://jestjs.io/" target="_blank" rel="noreferrer"> <img src="assets/jest.svg" alt="Jest" width="60" height="60" style="margin-right: 24px" /></a>
-        <a href="https://www.cypress.io/" target="_blank" rel="noreferrer"> <img src="assets/cypress.svg" alt="Cypress" width="60" height="60" style="margin-right: 24px" /></a>
     <br>
     <br>
     <br>
+        <a href="https://supabase.com/" target="_blank" rel="noreferrer"> <img src="assets/supabase.svg" alt="Supabase" width="60" height="60" style="margin-right: 24px" /></a>
+        <a href="https://sentry.io/welcome/" target="_blank" rel="noreferrer"> <img src="assets/sentry.svg" alt="Sentry" width="60" height="60" style="margin-right: 24px" /></a>
         <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="./assets/figma.svg" alt="Figma" width="60" height="60" style="margin-right: 24px" /></a>
-        <a href="https://www.scrum.org/" target="_blank" rel="noreferrer"> <img src="assets/scrum.svg" alt="Scrum" width="80" height="70" style="margin-right: 24px" /></a>
     <br>
 </div>
 
