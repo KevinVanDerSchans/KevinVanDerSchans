@@ -67,7 +67,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:kevinvdsd@hotmail.com" target="_blank">
+  <a href="mailto:kevinvdsd.dev@gmail.com" target="_blank">
     <img src="./assets/gmail.svg" alt="Email" width="170" />
   </a>
 </p>
