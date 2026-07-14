@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 300" width="760" height="300" font-family="'Segoe UI', system-ui, -apple-system, Helvetica, Arial, sans-serif">
+  <!-- Card 1: Mobile -->
+  <g transform="translate(10,10)">
+    <rect x="0" y="0" width="355" height="130" rx="14" fill="#E6F4FE" stroke="#38BDF8" stroke-width="1.5"/>
+    <g stroke="#0EA5E9" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <rect x="169" y="18" width="17" height="28" rx="3"/>
+      <line x1="174" y1="41" x2="181" y2="41"/>
+    </g>
+    <text x="177.5" y="76" text-anchor="middle" font-size="15" font-weight="700" fill="#075985">Mobile, end-to-end</text>
+    <text x="177.5" y="99" text-anchor="middle" font-size="12.5" fill="#475569">React Native · Expo · EAS · TypeScript</text>
+  </g>
+  <!-- Card 2: Clean Architecture -->
+  <g transform="translate(395,10)">
+    <rect x="0" y="0" width="355" height="130" rx="14" fill="#E6F4FE" stroke="#38BDF8" stroke-width="1.5"/>
+    <g stroke="#0EA5E9" stroke-width="2" fill="none" stroke-linejoin="round">
+      <rect x="164" y="33" width="13" height="9"/>
+      <rect x="178" y="33" width="13" height="9"/>
+      <rect x="171" y="22" width="13" height="9"/>
+    </g>
+    <text x="177.5" y="76" text-anchor="middle" font-size="15" font-weight="700" fill="#075985">Clean Architecture</text>
+    <text x="177.5" y="99" text-anchor="middle" font-size="12.5" fill="#475569">Scalable and maintainable by design</text>
+  </g>
+  <!-- Card 3: Observability & CI/CD -->
+  <g transform="translate(10,160)">
+    <rect x="0" y="0" width="355" height="130" rx="14" fill="#E6F4FE" stroke="#38BDF8" stroke-width="1.5"/>
+    <g stroke="#0EA5E9" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <polyline points="164,44 164,20 193,20"/>
+      <polyline points="168,39 175,31 182,35 189,23"/>
+    </g>
+    <text x="177.5" y="76" text-anchor="middle" font-size="15" font-weight="700" fill="#075985">Observability &amp; CI/CD</text>
+    <text x="177.5" y="99" text-anchor="middle" font-size="12.5" fill="#475569">Quality gates and observable releases</text>
+  </g>
+  <!-- Card 4: Beyond mobile -->
+  <g transform="translate(395,160)">
+    <rect x="0" y="0" width="355" height="130" rx="14" fill="#E6F4FE" stroke="#38BDF8" stroke-width="1.5"/>
+    <g stroke="#0EA5E9" stroke-width="2" fill="none">
+      <circle cx="177.5" cy="31" r="12"/>
+      <ellipse cx="177.5" cy="31" rx="5" ry="12"/>
+      <line x1="165.5" y1="31" x2="189.5" y2="31"/>
+    </g>
+    <text x="177.5" y="76" text-anchor="middle" font-size="15" font-weight="700" fill="#075985">Beyond mobile</text>
+    <text x="177.5" y="99" text-anchor="middle" font-size="12.5" fill="#475569">Next.js · React</text>
+  </g>
+</svg>

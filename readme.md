@@ -1,91 +1,42 @@
 <h1 align="center">Kevin van der Schans</h1>
 
 <p align="center">
-    <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=white&center=true&width=410&height=45&lines=Front-end+Developer" height="80"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&size=22&duration=3000&pause=1000&color=1F6FEB&center=true&vCenter=true&width=640&height=48&lines=React+Native+Engineer;Expo+%C2%B7+EAS+%C2%B7+TypeScript+%C2%B7+Sentry;Clean+Architecture+for+iOS+%26+Android" alt="React Native Engineer" />
 </p>
 
 <p align="center">
   <a href="https://kevin-van-der-schans.vercel.app" target="_blank">
-    🌐 <strong>Visit my PORTFOLIO</strong>
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-</p>
-
----
-
-## 🧑‍💻 About Me
-
-<div align="center">
-
-        💻 Strong foundation in Next.js, React, React Native and TypeScript
-
-        🌟 Clean code advocate with special attention to maintainability and scalability
-
-        🧠 Kaizen mindset: learning every day to be better than yesterday
-
-        📈 Perfectionist, efficient and results-driven
-
-        🌍 Based in Málaga, Spain
-
-</div>
-
----
-
-## 🛠 Tech Stack
-
-<br>
-
-<div align="center">
-        <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="./assets/next.svg" alt="NextJS" width="60" height="60" style="margin-right: 24px" /></a>
-        <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="./assets/react.svg" alt="React" width="60" height="60" style="margin-right: 24px"/></a>
-        <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="./assets/react-native.svg" alt="React Native" width="64" height="64" style="margin-right: 24px"/></a>
-    <br>
-    <br>
-        <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="./assets/typescript.svg" alt="Typescript" width="60" height="60" style="margin-right: 24px" /></a>
-        <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="./assets/redux.svg" alt="Redux" width="60" height="60" style="margin-right: 24px" /></a>
-        <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="assets/tailwind.svg" alt="Tailwind" width="60" height="60" style="margin-right: 24px" /></a>
-    <br>
-    <br>
-        <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="assets/jenkins.svg" alt="Jenkins" width="60" height="60" style="margin-right: 24px" /></a>
-        <a href="https://jestjs.io/" target="_blank" rel="noreferrer"> <img src="assets/jest.svg" alt="Jest" width="60" height="60" style="margin-right: 24px" /></a>
-    <br>
-    <br>
-    <br>
-        <a href="https://supabase.com/" target="_blank" rel="noreferrer"> <img src="assets/supabase.svg" alt="Supabase" width="60" height="60" style="margin-right: 24px" /></a>
-        <a href="https://sentry.io/welcome/" target="_blank" rel="noreferrer"> <img src="assets/sentry.svg" alt="Sentry" width="60" height="60" style="margin-right: 24px" /></a>
-        <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="./assets/figma.svg" alt="Figma" width="60" height="60" style="margin-right: 24px" /></a>
-    <br>
-</div>
-
----
-
-## 🔗 Let's Connect
-
-<p align="center">
   <a href="https://www.linkedin.com/in/kevinvanderschans/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="LinkedIn" width="200" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</p>
-
-<p align="center">
   <a href="mailto:kevinvdsd.dev@gmail.com" target="_blank">
-    <img src="./assets/gmail.svg" alt="Email" width="170" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <img src="https://img.shields.io/badge/Based_in-M%C3%A1laga%2C_Spain-30363D?style=flat-square" alt="Málaga, Spain" />
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinVanDerSchans&layout=compact&hide_border=true&theme=react" alt="Top Languages" width="450" />
-</div>
-
-<br>
+## About
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KevinVanDerSchans&theme=react" alt="GitHub Streak" />
+  <img src="assets/about.svg" alt="Mobile end-to-end · Clean Architecture · Observability & CI/CD · Beyond mobile" width="760" />
 </p>
 
----
+## Tech Stack
+
+<p align="center">
+  <img src="assets/tech-stack.svg" alt="Mobile, Architecture, Testing, CI/CD & Observability, AI & Automation" width="760" />
+</p>
+
+## Currently Building
+
+<p align="center">
+  <img src="assets/currently-building.svg" alt="Elixir — Gamified Gluten-Free Cooking, a full-stack mobile app in active development" width="760" />
+</p>
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=KevinVanDerSchans&background=E6F4FE&border=38BDF8&stroke=38BDF8&ring=0EA5E9&fire=0EA5E9&currStreakNum=075985&currStreakLabel=0369A1&sideNums=075985&sideLabels=47607A&dates=5B7A93&border_radius=14" alt="GitHub Streak" />
+</p>
